@@ -1,0 +1,2 @@
+Create a UML sequence diagram in PlantUML based on the following flow:
+[USE_CASE_FLOW]
